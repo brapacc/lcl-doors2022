@@ -8,6 +8,5 @@ nav_order: 4
 
 #  MODULO 2: Unità di Apprendimento Creativo
 
-**15, 22 Febbraio, 1, 8 Marzo**{: .label .label-purple }
-
+**15, 22 Febbraio, 1, 8 Marzo**
 
